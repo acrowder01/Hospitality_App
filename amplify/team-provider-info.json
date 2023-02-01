@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "hospitalityapp385a9e05": {}
+      },
+      "api": {
+        "hospitalityapp": {}
+      },
+      "storage": {
+        "imagestorage": {}
       }
     }
   }
